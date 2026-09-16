@@ -1,6 +1,0 @@
-<<<<<<< Updated upstream
-Testing file
-=======
-Testing files
-Testing merge conflicts
->>>>>>> Stashed changes
